@@ -1,0 +1,14 @@
+[
+  {
+    "id": "page_1",
+    "title": "Первый пункт",
+    "image_url": "https://via.placeholder.com/600x200.png?text=Page+1",
+    "description": "Описание первой страницы"
+  },
+  {
+    "id": "page_2",
+    "title": "Второй пункт",
+    "image_url": "https://via.placeholder.com/600x200.png?text=Page+2",
+    "description": "Описание второй страницы"
+  }
+]
