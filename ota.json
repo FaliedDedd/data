@@ -1,10 +1,12 @@
 {
-    "version": "3.1.2025.07.16.19.30",
-    "build": "9700",
-    "url": "http://192.168.1.14:8080/static/EduCA.apk",
+    "version": "3.1.2025.07.17.20.57",
+    "build": "9467",
+    "url": "https://github.com/The-F-Project/EduCA/releases/download/v3.1.2025.07.17.20.57/EduCA.apk",
     "changes": [
       
-       "Мяу"
+       "Раздел 'Краткие содержания' ",
+        "Раздел 'Новости' ",
+        "Некоторые разделы заблокированы"
 
     ]
 }
