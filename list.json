@@ -7,8 +7,53 @@
   },
   {
     "id": "page_2",
-    "title": "Второй пункт",
-    "image_url": "https://…/other.jpg",
-    "text_url": "https://your.server/path/to/second.txt"
+    "title": "Алые Паруса",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Scarlet_Sails_first_edition_cover.jpg",
+    "text_url": "https://raw.githubusercontent.com/FaliedDedd/data/refs/heads/main/text/alae-paruca.txt"
+  },
+
+    {
+    "id": "page_3",
+    "title": "Детство М. Горький",
+    "image_url": "https://s2-goods.ozstatic.by/1000/872/229/101/101229872_0.jpg",
+    "text_url": "https://raw.githubusercontent.com/FaliedDedd/data/refs/heads/main/text/detctvo-gorki.txt"
+  },
+
+      {
+    "id": "page_4",
+    "title": "Хамелеон",
+    "image_url": "https://s5-goods.ozstatic.by/1000/218/194/101/101194218_0.jpg",
+    "text_url": "https://raw.githubusercontent.com/FaliedDedd/data/refs/heads/main/text/hameleon.txt"
+  },
+
+     {
+    "id": "page_5",
+    "title": "Капитанская Дочка",
+    "image_url": "https://www.litres.ru/pub/c/cover/70766035.jpg",
+    "text_url": "https://raw.githubusercontent.com/FaliedDedd/data/refs/heads/main/text/kapitanska-doshka.txt"
+  },
+     {
+    "id": "page_6",
+    "title": "Луг",
+    "image_url": "https://cdn.azbooka.ru/cv/w1100/42e87c1d-9c4e-4aa6-9e04-7373b0c41bd6.jpg",
+    "text_url": "https://raw.githubusercontent.com/FaliedDedd/data/refs/heads/main/text/lug.txt"
+  },
+       {
+    "id": "page_7",
+    "title": "Мцыри",
+    "image_url": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/1664655926/100023932967b0.jpg",
+    "text_url": "https://raw.githubusercontent.com/FaliedDedd/data/refs/heads/main/text/mciri.txt"
+  },
+      {
+    "id": "page_8",
+    "title": "Тонкий и Толстый",
+    "image_url": "https://podster.fm/image-storage/151573/conversions/ndt7xJnAtkVUibgM-md.jpg",
+    "text_url": "https://raw.githubusercontent.com/FaliedDedd/data/refs/heads/main/text/tonki.txt"
+  },
+    {
+    "id": "page_9",
+    "title": "Уроки Французкого",
+    "image_url": "https://nukadeti.ru/content/images/static/tale300x300_or/7745_7961.jpg",
+    "text_url": "https://raw.githubusercontent.com/FaliedDedd/data/refs/heads/main/text/uroki-francuzkogo.txt"
   }
 ]
