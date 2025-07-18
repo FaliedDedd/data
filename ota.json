@@ -1,12 +1,12 @@
 {
-    "version": "3.1.2025.07.17.20.57",
-    "build": "9467",
-    "url": "https://github.com/The-F-Project/EduCA/releases/download/v3.1.2025.07.17.20.57/EduCA.apk",
+    "version": "3.2.2025.07.18.22.08",
+    "build": "9700",
+    "url": "https://github.com/The-F-Project/EduCA/releases/download/v3.2.2025.07.18.22.08/EduCA.apk",
     "changes": [
       
-       "Раздел 'Краткие содержания' ",
-        "Раздел 'Новости' ",
-        "Некоторые разделы заблокированы"
+       "[+] Новый вид карточек кратких содержаний ",
+        "[+] Новый вид читалки",
+        "[+] Новые иконки"
 
     ]
 }
