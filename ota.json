@@ -1,10 +1,11 @@
 {
-    "version": "3.2.2025.07.19.13.39",
-    "build": "9800",
-    "url": "https://github.com/The-F-Project/EduCA/releases/download/v3.2.2025.07.19.13.39/EduCA.apk",
+    "version": "3.2.2025.07.21.22.41",
+    "build": "9923",
+    "url": "https://github.com/The-F-Project/EduCA/releases/download/v3.2.2025.07.21.22.41/EduCA.apk",
     "changes": [
       
-       "[+] Новый главный экран "
+       "[+] Новый главный экран ",
+        "[+] Обновлены почти все разделы"
       
 
     ]
