@@ -1,0 +1,7 @@
+{
+    "id": "banner_1",
+    "title": "Заголовок баннера",
+    "message": "Текст сообщения",
+    "imageUrl": "https://example.com/image.jpg",
+    "actionUrl": "https://example.com/link"
+}
