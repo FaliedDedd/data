@@ -1,7 +1,7 @@
 {
-    "id": "banner_1",
-    "title": "Заголовок баннера",
-    "message": "Текст сообщения",
-    "imageUrl": "https://example.com/image.jpg",
-    "actionUrl": "https://example.com/link"
+    "id": "banner_2",
+    "title": "I love this pengiun",
+    "message": "Tuuuuuuuuz",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCgxMCvyD0pBWgiaFgF2Jikvjg9TO6-oVYw&s",
+    "actionUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCgxMCvyD0pBWgiaFgF2Jikvjg9TO6-oVYw&s"
 }
