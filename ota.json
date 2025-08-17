@@ -1,12 +1,13 @@
 {
-    "version": "3.10",
-    "build": "11510",
-    "url": "https://github.com/The-F-Project/EduCA/releases/download/v3.10/EduCA.apk",
+    "version": "3.11.2025.17.08",
+    "build": "11530",
+    "url": "https://github.com/The-F-Project/EduCA/releases/download/v3.11.2025.17.08/EduCA.apk",
     "changes": [
       
-       "Кандидат на релиз 4",
+       "Тестовая сборка",
       
-        "Исправление системы баннеров"
+        "Мелкие исправления",
+        "Тестирование OTA"
       
       
 
