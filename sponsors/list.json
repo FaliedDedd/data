@@ -10,5 +10,16 @@
     "title": "Анонимус",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8atD9hafu0haE4buQW0AgRtQd5QYJrJ9aEA&s",
     "text_url": "https://raw.githubusercontent.com/FaliedDedd/data/refs/heads/main/sponsors/txt/sponsor2.txt"
+},
+
+  {  
+  "id": "page_3",
+    "title": "доктор Яйкин",
+    "image_url": "https://raw.githubusercontent.com/FaliedDedd/data/refs/heads/main/sponsors/img/photo_2025-09-11_19-47-06.jpg",
+    "text_url": "https://raw.githubusercontent.com/FaliedDedd/data/refs/heads/main/sponsors/txt/sponsor3.txt"
 }
+
+
+
+  
 ]
