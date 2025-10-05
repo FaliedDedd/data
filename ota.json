@@ -1,17 +1,15 @@
 {
-    "version": "4.1",
-    "build": "12710",
-    "url": "https://statutes-supplement-brandon-commons.trycloudflare.com/release",
+    "version": "4.2.1",
+    "build": "13120",
+    "url": "https://principles-practice-outcomes-requirements.trycloudflare.com/release",
     "changes": [
-       "ОЧЕНЬ ВАЖНОЕ ОБНОВЛЕНИЕ",
-        "Обновлен host файл",
-        "Исправление ошибок",
-        
-        "Обновлен внешний вид решебников (добавлены превью)"
+         "ПОДДЕРЖКА ЭТОЙ ВЕРСИИ ПРИЛОЖЕНИЯ ЗАКОНЧЕНА. ОБРАТИТЕСЬ ДО АКТУАЛЬНОЙ ВЕРСИИ",
+        "Сообщение для версий ниже чем 4.1"
    
 
     ]
 }
+
 
 
 
