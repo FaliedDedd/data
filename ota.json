@@ -1,7 +1,7 @@
 {
-    "version": "4.2.1",
-    "build": "13120",
-    "url": "https://principles-practice-outcomes-requirements.trycloudflare.com/release",
+    "version": "4.4.3",
+    "build": "13580",
+    "url": "https://bars-saturn-metres-widespread.trycloudflare.com/release",
     "changes": [
          "ПОДДЕРЖКА ЭТОЙ ВЕРСИИ ПРИЛОЖЕНИЯ ЗАКОНЧЕНА. ОБНОВИТЕСЬ ДО АКТУАЛЬНОЙ ВЕРСИИ",
         "Сообщение для версий ниже чем 4.1"
@@ -9,6 +9,7 @@
 
     ]
 }
+
 
 
 
