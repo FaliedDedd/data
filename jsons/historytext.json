@@ -1,0 +1,152 @@
+[
+  {
+    "id": "page_1",
+    "title": " (1)Древние люди на территории Беларуси: заселение территории, занятия, основные изобретения и открытия, религиозные верования",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket1.txt"
+  },
+  {
+    "id": "page_2",
+    "title": "(2)Полоцкое и Туровское княжества в X–XII вв.: территория, действия князей по укреплению княжеств, раздробленность Полоцкой и Туровской земель.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket2.txt"
+  },
+  {
+    "id": "page_3",
+    "title": "(3)Христианизация белорусских земель в X–XIII вв.: причины и значение принятия христианства, религиозные деятели-просветители.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket3.txt"
+  },
+  {
+    "id": "page_4",
+    "title": "(4)Образование Великого Княжества Литовского: причины объединения белорусских и литовских земель в одном государстве, пути вхождения белорусских земель в ВКЛ.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket4.txt"
+  },
+  {
+    "id": "page_5",
+    "title": "(5) Борьба с агрессией крестоносцев в XIII–XV вв.: Владимир Полоцкий, Давыд Городенский, Андрей Полоцкий, «Великая война» и Грюнвальдская битва.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket5.txt"
+  },
+  {
+    "id": "page_6",
+    "title": "(6) Франциск Скорина – белорусский первопечатник, просветитель: жизненный путь, философские, религиозные взгляды, книгоиздательская деятельность. Последователи Франциска Скорины (С. Будный, В. Тяпинский, П. Мстиславец, М. Смотрицкий).",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket6.txt"
+  },
+  {
+    "id": "page_7",
+    "title": "(7)Беларусь в период Отечественной войны 1812 г.: боевые действия на территории Беларуси, отношение к войне разных слоев населения, итоги войны для Беларуси.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket7.txt"
+  },
+  {
+    "id": "page_8",
+    "title": "(8) Люблинская уния: причины, условия, значение для белорусских земель. Борьба ВКЛ за сохранение самостоятельности. Статут ВКЛ 1588 г.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket8.txt"
+  },
+  {
+    "id": "page_9",
+    "title": "(9)Формирование белорусской народности в XIV–XVIII вв.: признаки народности, особенности их формирования у белорусов, происхождение названия «Белая Русь».",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket9.txt"
+  },
+  {
+    "id": "page_10",
+    "title": "(10)Аграрная реформа 1861 г., Столыпинская реформа на белорусских землях: основные мероприятия, особенности проведения, итоги и значение.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket10.txt"
+  },
+  {
+    "id": "page_11",
+    "title": "(11)Революция 1905–1907 гг. и Февральская революция 1917 г. в Беларуси: основные события, белорусское национальное движение.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket11.txt"
+  },
+  {
+    "id": "page_12",
+    "title": "(12)Беларусь в годы Первой мировой войны: основные события, итоги и последствия для белорусских земель.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket12.txt"
+  },
+  {
+    "id": "page_13",
+    "title": "(13) Беларусь во время Октябрьской революции 1917 г.: основные события, особенности, первые социалистические преобразования.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket13.txt"
+  },
+  {
+    "id": "page_14",
+    "title": "(14)Создание Социалистической Советской Республики Беларуси (ССРБ): причины, основные события, значение.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket14.txt"
+  },
+  {
+    "id": "page_15",
+    "title": "(15)Беларусь в годы польско-советской войны 1919–1921 гг.: основные события, итоги и последствия.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket15.txt"
+  },
+  {
+    "id": "page_16",
+    "title": "(16)Политика белорусизации: основные мероприятия и результаты. Основные достижения науки и образования, литературы и искусства в БССР в 1920–1930-е гг.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket16.txt"
+  },
+  {
+    "id": "page_17",
+    "title": "(17)Индустриализация и коллективизация сельского хозяйства в БССР во второй половине 1920-х – 1930-е гг.: причины, особенности проведения, итоги, значение.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket17.txt"
+  },
+  {
+    "id": "page_18",
+    "title": "(18)Западная Беларусь в составе Польши (1921 – 1939 гг.): экономическая, национальная политика польских властей. Национально-освободительное движение в Западной Беларуси.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket18.txt"
+  },
+  {
+    "id": "page_19",
+    "title": "(19)Подвиг белорусского народа в годы Великой Отечественной войны: оборонительные бои летом 1941 г., партизанское и подпольное движение.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket19.txt"
+  },
+  {
+    "id": "page_20",
+    "title": "(20) Геноцид населения Беларуси в годы Великой Отечественной войны: план «Ост», германский «новый порядок», карательные операции на оккупированной территории Беларуси.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket20.txt"
+  },
+  {
+    "id": "page_21",
+    "title": "(21)БССР во второй половине 1940-х – 1980-ые гг.: основные достижения в области социально-экономического развития.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket21.txt"
+  },
+  {
+    "id": "page_22",
+    "title": "(22)БССР во второй половине 1940-х – 1980-ые гг.: основные достижения в области образования, науки, культуры.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket22.txt"
+  },
+  {
+    "id": "page_23",
+    "title": "(23)Становление государственного суверенитета Республики Беларусь: Декларация о государственном суверенитете БССР, принятие Конституции Республики Беларусь, введение должности Президента Республики Беларусь, республиканские референдумы.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket23.txt"
+  },
+  {
+    "id": "page_24",
+    "title": "(24)Внешняя политика Республики Беларусь: участие в деятельности ООН, интеграционных процессах на постсоветском пространстве",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket24.txt"
+  },
+  {
+    "id": "page_25",
+    "title": "(25)Социально-экономическое развитие Республики Беларусь: приоритеты государственной политики, достижения в области промышленности, сельского хозяйства, социальной сферы.",
+    "image_url": "serv_url/images/banner_tickets.png",
+    "text_url": "serv_url/txt_files/ticket25.txt"
+  }
+]

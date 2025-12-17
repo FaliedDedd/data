@@ -1,0 +1,82 @@
+{
+  "base_urls": {
+    "api": "https://api.example.com",
+    "cdn": "https://cdn.example.com",
+    "static": "https://static.example.com",
+    "json_server": "https://bring-evaluated-sarah-rangers.trycloudflare.com",
+    "github_images": "https://raw.githubusercontent.com/The-F-Project/kratkie/main/images"
+  },
+  "items": [
+{
+      "id": "0",
+      "title": "Вступление",
+      "jsonUrl": "serv_url/ticketdemo",
+      "imageUrl": "${github_images}/ticket1.jpg",
+      "duration": "00:47"
+    },
+
+   
+    {
+      "id": "2",
+      "title": "(2)Полоцкое и Туровское княжество",
+      "jsonUrl": "serv_url/ticket2",
+      "imageUrl": "${github_images}/ticket2.jpg",
+      "duration": "05:12"
+    },
+    {
+      "id": "3",
+      "title": "(3)Христианизация белорусских земель",
+      "jsonUrl": "serv_url/ticket3",
+      "imageUrl": "${github_images}/ticket3.jpg",
+      "duration": "05:39"
+    },
+    {
+      "id": "4",
+      "title": "(4)Образование на т-р ВКЛ",
+      "jsonUrl": "serv_url/ticket4",
+      "imageUrl": "https://urgent-focus-measure-mins.trycloudflare.com/ticket4.jpg",
+      "duration": "05:57"
+    },
+    {
+      "id": "5",
+      "title": "(5)Борьба с крестоносцами на т-р ВКЛ",
+      "jsonUrl": "serv_url/ticket5",
+      "imageUrl": "${github_images}/ticket5.jpg",
+      "duration": "04:45"
+    },
+    {
+      "id": "6",
+      "title": "(6)Франциск Скорина",
+      "jsonUrl": "serv_url/ticket6",
+      "imageUrl": "${github_images}/ticket6.jpg",
+      "duration": "05:16"
+    },
+    {
+      "id": "7",
+      "title": "(7)Беларусь в период Отечественной войны 1812",
+      "jsonUrl": "serv_url/ticket7",
+      "imageUrl": "${github_images}/ticket6.jpg",
+      "duration": "06:09"
+    },
+    {
+      "id": "8",
+      "title": "(8)Люблинская уния: причины, условия, значение",
+      "jsonUrl": "serv_url/ticket8",
+      "imageUrl": "${github_images}/ticket6.jpg",
+      "duration": "07:30"
+    },
+    {
+      "id": "9",
+      "title": "(9)Формирование белорусской народности в XIV–XVIII",
+      "jsonUrl": "serv_url/ticket9",
+      "duration": "06:24"
+    },
+
+     {
+      "id": "10",
+      "title": "(10)Аграрная реформа 1861 г",
+      "jsonUrl": "serv_url/ticket10",
+      "duration": "06:25"
+    }
+  ]
+}

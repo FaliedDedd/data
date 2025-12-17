@@ -1,0 +1,68 @@
+{
+  "quiz": {
+    "title": "Образование ВКЛ (Билет 4)",
+    "description": "Проверка знаний по теме образования Великого Княжества Литовского",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Какие были причины для образования ВКЛ?",
+        "answers": [
+          {"id": 1, "text": "Преодоление феодальной раздробленности", "isCorrect": true},
+          {"id": 2, "text": "Массовая нищета", "isCorrect": false},
+          {"id": 3, "text": "Слабая армия", "isCorrect": false},
+          {"id": 4, "text": "Отделение ремесла от сельского хозяйства", "isCorrect": true}
+        ],
+        "multipleChoice": true,
+        "points": 1
+      },
+      {
+        "id": 2,
+        "question": "На территориях какого княжества берет свое начало ВКЛ?",
+        "answers": [
+          {"id": 1, "text": "Полоцкого", "isCorrect": false},
+          {"id": 2, "text": "Туровского", "isCorrect": false},
+          {"id": 3, "text": "Новогрудского", "isCorrect": true},
+          {"id": 4, "text": "Московского", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 3,
+        "question": "Кто являлся королем ВКЛ?",
+        "answers": [
+          {"id": 1, "text": "Гедимин", "isCorrect": false},
+          {"id": 2, "text": "Миндовг", "isCorrect": true},
+          {"id": 3, "text": "Тройден", "isCorrect": false},
+          {"id": 4, "text": "Витень", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 4,
+        "question": "Сколько было путей вхождения в состав ВКЛ?",
+        "answers": [
+          {"id": 1, "text": "2", "isCorrect": false},
+          {"id": 2, "text": "4", "isCorrect": false},
+          {"id": 3, "text": "1", "isCorrect": false},
+          {"id": 4, "text": "3", "isCorrect": true}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 5,
+        "question": "Кто тоже был королем?",
+        "answers": [
+          {"id": 1, "text": "Гедимин", "isCorrect": true},
+          {"id": 2, "text": "Миндовг", "isCorrect": false},
+          {"id": 3, "text": "Ольгерд", "isCorrect": false},
+          {"id": 4, "text": "Войшелк", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Беларусь в период Отечественной войны 1812 (7)",
+  "audioUrl": "serv_url/audio_list/ticket7.mp3",
+  "subtitles": [
+    {
+      "startTime": 0,
+      "endTime": 15000,
+      "text": "Приветствие и введение в тему"
+    },
+    {
+      "startTime": 5000,
+      "endTime": 15000,
+      "text": "Основная часть лекции с важной информацией"
+    },
+    {
+      "startTime": 15000,
+      "endTime": 25000,
+      "text": "Практические примеры и кейсы"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Введение (0:00)",
+      "startTime": 0,
+      "duration": 5000
+    },
+    {
+      "title": "Основная часть (0:05)",
+      "startTime": 100000,
+      "duration": 10000
+    },
+    {
+      "title": "Ух ты, это слушают? (0:15)",
+      "startTime": 15000,
+      "duration": 10000
+    }
+  ]
+}

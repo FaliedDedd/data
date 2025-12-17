@@ -1,0 +1,88 @@
+{
+  "quiz": {
+    "title": "Тест по Билету 1",
+    "description": "А ты хорошо слушал?)",
+    "questions": [
+      {
+        "id": 1,
+        "question": "На какие периоды делится древняя история?",
+        "answers": [
+          {"id": 1, "text": "Каменный век, Лазуритовый век, Стальной век", "isCorrect": false},
+          {"id": 2, "text": "Деревянный век, Бронзовый век, Стальной век", "isCorrect": false},
+          {"id": 3, "text": "Деревянный век, Лазуритовый век, Железный век", "isCorrect": false},
+          {"id": 4, "text": "Каменный век, Бронзовый век, Железный век", "isCorrect": true}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 2,
+        "question": "Когда появились первые стоянки на территории Беларуси?",
+        "answers": [
+          {"id": 1, "text": "24 тыс. лет назад", "isCorrect": true},
+          {"id": 2, "text": "40 тыс. лет назад", "isCorrect": false},
+          {"id": 3, "text": "22 тыс. лет назад", "isCorrect": false},
+          {"id": 4, "text": "21 тыс. лет назад", "isCorrect": true}
+        ],
+        "multipleChoice": true,
+        "points": 1
+      },
+      {
+        "id": 3,
+        "question": "Правда ли, что в Каменном веке основным материалом для изготовления орудий труда был камень?",
+        "answers": [
+          {"id": 1, "text": "НЕТ", "isCorrect": true},
+          {"id": 2, "text": "ДА", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 4,
+        "question": "Что из этого было в Бронзовом веке?",
+        "answers": [
+          {"id": 1, "text": "Производящее хозяйство", "isCorrect": true},
+          {"id": 2, "text": "Матриархат", "isCorrect": false},
+          {"id": 3, "text": "Появились племена индоевропейцев", "isCorrect": true},
+          {"id": 4, "text": "Городища", "isCorrect": false}
+        ],
+        "multipleChoice": true,
+        "points": 1
+      },
+      {
+        "id": 5,
+        "question": "Почему люди стали строить городища?",
+        "answers": [
+          {"id": 1, "text": "Просто так", "isCorrect": false},
+          {"id": 2, "text": "Для того, чтобы защитить себя от животных в случае их массового нападения", "isCorrect": false},
+          {"id": 3, "text": "Для того, чтобы защитить себя от других людей из-за появления имущественного неравенства", "isCorrect": true},
+          {"id": 4, "text": "Потому что захотели себе поселение побольше, где будет больше зданий", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 6,
+        "question": "С чем в первую очередь были связаны религиозные верования первобытных людей?",
+        "answers": [
+          {"id": 1, "text": "Чугуном", "isCorrect": false},
+          {"id": 2, "text": "Природой", "isCorrect": true},
+          {"id": 3, "text": "Богом", "isCorrect": false},
+          {"id": 4, "text": "Святым камнем, который упал с неба, т.е. метеоритом", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 7,
+        "question": "Верили ли люди в существование души?",
+        "answers": [
+          {"id": 1, "text": "ДА", "isCorrect": true},
+          {"id": 2, "text": "НЕТ", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      }
+    ]
+  }
+}

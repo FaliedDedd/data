@@ -1,0 +1,56 @@
+[
+
+{
+    "id": "page_1",
+    "title": "Взаимодействие тел",
+    "image_url": "serv_url/images/sprav-phy-7-1.png",
+    "text_url": "serv_url/txt_files/sprav_physic7.txt"
+  },
+
+{
+    "id": "page_2",
+    "title": "Средняя скорость неравномерного движения",
+    "image_url": "serv_url/images/sprav-phy-7-2.png",
+    "text_url": "serv_url/txt_files/sprav_physic7-2.txt"
+  },
+
+{
+    "id": "page_3",
+    "title": "Скорость равномерного прямолинейного движения",
+    "image_url": "serv_url/images/sprav-phy-7-3.png",
+    "text_url": "serv_url/txt_files/sprav_physic7-3.txt"
+  },
+
+{
+    "id": "page_4",
+    "title": "Сила тяжести",
+    "image_url": "serv_url/images/sprav-phy-7-4.png",
+    "text_url": "serv_url/txt_files/sprav_physic7-4.txt"
+  },
+
+{
+    "id": "page_5",
+    "title": "Равнодействующая сила",
+    "image_url": "serv_url/images/sprav-phy-7-5.png",
+    "text_url": "serv_url/txt_files/sprav_physic7-5.txt"
+  },
+
+  {
+    "id": "page_6",
+    "title": "Давление",
+    "image_url": "serv_url/images/sprav-phy-7-6.png",
+    "text_url": "serv_url/txt_files/sprav_physic7-6.txt"
+  },
+  {
+    "id": "page_7",
+    "title": "Давление жидкости",
+    "image_url": "serv_url/images/sprav-phy-7-7.png",
+    "text_url": "serv_url/txt_files/sprav_physic7-7.txt"
+  },
+  {
+    "id": "page_8",
+    "title": "Сила Архимеда",
+    "image_url": "serv_url/images/sprav-phy-7-8.png",
+    "text_url": "serv_url/txt_files/sprav_physic7-8.txt"
+  }
+]

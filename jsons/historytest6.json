@@ -1,0 +1,81 @@
+{
+  "quiz": {
+    "title": "Борьба с агрессией крестоносцев (Билет 6)",
+    "description": "Пройди тест",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Какие из этих образований получил Франциск Скорина? (несколько вариантов ответа)",
+        "answers": [
+          {"id": 1, "text": "Окончил факультет вольных наук", "isCorrect": true},
+          {"id": 2, "text": "Математических", "isCorrect": false},
+          {"id": 3, "text": "Медицинское", "isCorrect": true},
+          {"id": 4, "text": "Педагогическое", "isCorrect": false}
+        ],
+        "multipleChoice": true,
+        "points": 2
+      },
+      {
+        "id": 2,
+        "question": "Какую книгу Франциск Скорина издал первой?",
+        "answers": [
+          {"id": 1, "text": "Малую подорожную книжицу", "isCorrect": false},
+          {"id": 2, "text": "Апостол", "isCorrect": false},
+          {"id": 3, "text": "Псалтырь", "isCorrect": true},
+          {"id": 4, "text": "Граматики словенския", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 3,
+        "question": "Понятие какого слова Франциск Скорина стал основоположником",
+        "answers": [
+          {"id": 1, "text": "Религия", "isCorrect": false},
+          {"id": 2, "text": "Философия", "isCorrect": false},
+          {"id": 3, "text": "Книгопечатанье", "isCorrect": false},
+          {"id": 4, "text": "Патриотизм", "isCorrect": true}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 4,
+        "question": "Какие из этих людей НЕ являлись последователями Скорины?",
+        "answers": [
+          {"id": 1, "text": "Симеон Полоцкий", "isCorrect": false},
+          {"id": 2, "text": "Сымон Будный", "isCorrect": true},
+          {"id": 3, "text": "Василь Тяпинский", "isCorrect": false},
+          {"id": 4, "text": "Петр Мстиславец", "isCorrect": false},
+          {"id": 5, "text": "Петрарка", "isCorrect": true},
+          {"id": 6, "text": "Мелетий Смотрицкий", "isCorrect": false}
+        ],
+        "multipleChoice": true,
+        "points": 1
+      },
+      {
+        "id": 5,
+        "question": "Какую книгу издали в 1562 году в Несвиже?",
+        "answers": [
+          {"id": 1, "text": "Катехизис", "isCorrect": true},
+          {"id": 2, "text": "О Катехизис", "isCorrect": false},
+          {"id": 3, "text": "Евангелие", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 6,
+        "question": "Какая книга служила учебником для населения восточных славян?",
+        "answers": [
+          {"id": 1, "text": "Катехизис", "isCorrect": false},
+          {"id": 2, "text": "Апостол", "isCorrect": false},
+          {"id": 3, "text": "Граматике словенския", "isCorrect": true},
+          {"id": 4, "text": "Малая подорожная книжица", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      }
+    ]
+  }
+}

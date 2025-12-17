@@ -1,0 +1,104 @@
+{
+  "quiz": {
+    "title": "Тест по билету 2",
+    "description": "Что ты усвоил за билет??",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Как называлось древнее государство восточных славян?",
+        "answers": [
+          {"id": 1, "text": "Белорусское Княжество", "isCorrect": false},
+          {"id": 2, "text": "Великое Княжество Литовское", "isCorrect": false},
+          {"id": 3, "text": "Славянское Герцегство", "isCorrect": false},
+          {"id": 4, "text": "Киевская Русь", "isCorrect": true}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 2,
+        "question": "В какой летописи впервые упоминается Полоцк и под каким годом?",
+        "answers": [
+          {"id": 1, "text": "Повесть временных лет 862", "isCorrect": true},
+          {"id": 2, "text": "Слово о полку Игореве 980", "isCorrect": false},
+          {"id": 3, "text": "Лаврентьевская летопись 1034", "isCorrect": false},
+          {"id": 4, "text": "Ипатьевская летопись 780", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 2
+      },
+      {
+        "id": 3,
+        "question": "Первый правитель полоцкого княжества",
+        "answers": [
+          {"id": 1, "text": "Владимир", "isCorrect": false},
+          {"id": 2, "text": "Рогволод", "isCorrect": true},
+          {"id": 3, "text": "Рюрик", "isCorrect": false},
+          {"id": 4, "text": "Антон", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 4,
+        "question": "Какое из этих имен не принадлежало \"княгине с 3 именами\"?",
+        "answers": [
+          {"id": 1, "text": "Анастасия", "isCorrect": false},
+          {"id": 2, "text": "Рогнеда", "isCorrect": false},
+          {"id": 3, "text": "Евдокия", "isCorrect": true},
+          {"id": 4, "text": "Гореслава", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 5,
+        "question": "Почему Всеслава назвали Чародеем",
+        "answers": [
+          {"id": 1, "text": "Происходил из рода Чародеев", "isCorrect": false},
+          {"id": 2, "text": "Заколдовал врагов", "isCorrect": false},
+          {"id": 3, "text": "Проклял Киев", "isCorrect": false},
+          {"id": 4, "text": "Умел превращаться в волка", "isCorrect": true}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 6,
+        "question": "Дата битвы на Немиге",
+        "answers": [
+          {"id": 1, "text": "6 июня 1068", "isCorrect": false},
+          {"id": 2, "text": "3 марта 1067", "isCorrect": true},
+          {"id": 3, "text": "5 января 1056", "isCorrect": false},
+          {"id": 4, "text": "4 апреля 1067", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 7,
+        "question": "Известный сборник законов на Руси",
+        "answers": [
+          {"id": 1, "text": "Русская Правда Ярослава Мудрого", "isCorrect": true},
+          {"id": 2, "text": "Правда Глеба Менского", "isCorrect": false},
+          {"id": 3, "text": "Законы Ярополка Окаянного", "isCorrect": false},
+          {"id": 4, "text": "Таблицы Брячислава", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 8,
+        "question": "Каким годом датируется Туров",
+        "answers": [
+          {"id": 1, "text": "862", "isCorrect": false},
+          {"id": 2, "text": "1000", "isCorrect": false},
+          {"id": 3, "text": "765", "isCorrect": false},
+          {"id": 4, "text": "980", "isCorrect": true}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "quiz": {
+    "title": "Борьба с агрессией крестоносцев (Билет 5)",
+    "description": "Пройди тест",
+    "questions": [
+      {
+        "id": 1,
+        "question": "В каком году крестоносцы основали крепость Ригу?",
+        "answers": [
+          {"id": 1, "text": "1202", "isCorrect": true},
+          {"id": 2, "text": "1201", "isCorrect": false},
+          {"id": 3, "text": "1200", "isCorrect": false},
+          {"id": 4, "text": "1203", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 2,
+        "question": "Ледовое побоище",
+        "answers": [
+          {"id": 1, "text": "1244", "isCorrect": false},
+          {"id": 2, "text": "1243", "isCorrect": false},
+          {"id": 3, "text": "1242", "isCorrect": true},
+          {"id": 4, "text": "1241", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 3,
+        "question": "Какая война была 1409-1411?",
+        "answers": [
+          {"id": 1, "text": "Славная война", "isCorrect": false},
+          {"id": 2, "text": "Великая война", "isCorrect": true},
+          {"id": 3, "text": "Христианская война", "isCorrect": false},
+          {"id": 4, "text": "Крестовая война", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 4,
+        "question": "Подписанием какого мира закончилась эта война?",
+        "answers": [
+          {"id": 1, "text": "Хоругвенского", "isCorrect": false},
+          {"id": 2, "text": "Рижского", "isCorrect": false},
+          {"id": 3, "text": "Тевтонского", "isCorrect": false},
+          {"id": 4, "text": "Торуньского", "isCorrect": true}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 5,
+        "question": "Правда ли, что после войны возрос авторитет Польши и ВКЛ?",
+        "answers": [
+          {"id": 1, "text": "Да", "isCorrect": true},
+          {"id": 2, "text": "Нет", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      }
+    ]
+  }
+}

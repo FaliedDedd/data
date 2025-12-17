@@ -1,0 +1,90 @@
+{
+  "quiz": {
+    "title": "Христианизация Руси (Билет 3)",
+    "description": "Проверка знаний по теме христианизации Руси",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Почему началась христианизация?",
+        "answers": [
+          {"id": 1, "text": "Надоело язычество", "isCorrect": false},
+          {"id": 2, "text": "Князья русские хотели занимать место в европейской политике", "isCorrect": true},
+          {"id": 3, "text": "Для поднятия популярности среди населения", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 2,
+        "question": "Когда крестили Русь?",
+        "answers": [
+          {"id": 1, "text": "999", "isCorrect": false},
+          {"id": 2, "text": "1000", "isCorrect": false},
+          {"id": 3, "text": "950", "isCorrect": false},
+          {"id": 4, "text": "988", "isCorrect": true}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 3,
+        "question": "Что служит доказательством развития письменности во время христианизации?",
+        "answers": [
+          {"id": 1, "text": "Берестяные грамоты", "isCorrect": true},
+          {"id": 2, "text": "Храмы", "isCorrect": false},
+          {"id": 3, "text": "Летописание", "isCorrect": true},
+          {"id": 4, "text": "Иконы", "isCorrect": false}
+        ],
+        "multipleChoice": true,
+        "points": 1
+      },
+      {
+        "id": 4,
+        "question": "Правда ли, что Повесть Временных Лет написал монах Нестор?",
+        "answers": [
+          {"id": 1, "text": "Да, ее написал монах Нестор", "isCorrect": true},
+          {"id": 2, "text": "Нет, ее написал монах Владимир", "isCorrect": false}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 5,
+        "question": "Какие из этих личностей являются религиозными деятелями?",
+        "answers": [
+          {"id": 1, "text": "Брячислав Изяславович", "isCorrect": false},
+          {"id": 2, "text": "Рюрик", "isCorrect": false},
+          {"id": 3, "text": "Евфросиния Полоцкая", "isCorrect": true},
+          {"id": 4, "text": "Кирилл Туровский", "isCorrect": true}
+        ],
+        "multipleChoice": true,
+        "points": 1
+      },
+      {
+        "id": 6,
+        "question": "В чем особенность Борисо-Глебской церкви?",
+        "answers": [
+          {"id": 1, "text": "Красивая очень", "isCorrect": false},
+          {"id": 2, "text": "Кирпичи крепкие", "isCorrect": false},
+          {"id": 3, "text": "Голосники", "isCorrect": true}
+        ],
+        "multipleChoice": false,
+        "points": 1
+      },
+      {
+        "id": 7,
+        "question": "В каких городах есть Софийские соборы?",
+        "answers": [
+          {"id": 1, "text": "Полоцк", "isCorrect": true},
+          {"id": 2, "text": "Новогрудок", "isCorrect": false},
+          {"id": 3, "text": "Москва", "isCorrect": false},
+          {"id": 4, "text": "Новгород", "isCorrect": true},
+          {"id": 5, "text": "Киев", "isCorrect": true},
+          {"id": 6, "text": "Херсон", "isCorrect": false}
+        ],
+        "multipleChoice": true,
+        "points": 1
+      }
+    ]
+  }
+}
